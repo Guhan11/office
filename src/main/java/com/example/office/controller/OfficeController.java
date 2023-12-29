@@ -18,7 +18,7 @@ import com.example.office.service.OfficeService;
 
 
 @RestController
-@RequestMapping("/office")
+@RequestMapping("/property")
 
 public class OfficeController {
 	@Autowired
